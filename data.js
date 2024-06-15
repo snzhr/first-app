@@ -1,3 +1,5 @@
 const comments = [
-  "Excellent"
+  "Excellent",
+  "Good",
+  "Fair"
 ];
